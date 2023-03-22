@@ -8,5 +8,6 @@ public class Practice {
 	public void sample()
 	{
 		System.out.println("SAMPLE");
+		System.out.println("sample2");
 	}
 }
